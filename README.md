@@ -218,7 +218,7 @@
       <p>Click on the picture links below to select from products appropriate for the types of birds you keep.</p></section>
 
 <section style="text-align: center;">
-      <img src="Owl and Raptor.png" alt="Owl and Raptor"/>
+      <img src="/Website Images /OwlandRaptor.png" alt="Owl and Raptor"/>
 
       <img src="A - Z Product List (1).png" alt="Product List"/>
 
