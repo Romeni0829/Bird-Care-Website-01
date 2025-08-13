@@ -218,9 +218,9 @@
       <p>Click on the picture links below to select from products appropriate for the types of birds you keep.</p></section>
 
 <section style="text-align: center;">
-      <img src="/Website Images /OwlandRaptor.png" alt="Owl and Raptor"/>
+      <img src="website-images/OwlandRaptor.png" alt="Owl and Raptor"/>
 
-      <img src="A - Z Product List (1).png" alt="Product List"/>
+  <img src="website-images/A-ZProductList(1).png" alt="Product List"/>
 
       <img src="https://t4.ftcdn.net/jpg/06/29/66/03/360_F_629660322_BesyvD4xD3ZUnXPyUlD7Vw6Q8L09ctLk.jpg" alt="Bird photo"/>
 <br>
@@ -229,14 +229,14 @@
 
       <img src="https://images.stockcake.com/public/b/4/1/b4172cd4-8fb0-471c-ba54-1bfa82a3ba62_large/bird-splashing-water-stockcake.jpg" alt="Splashing bird"/>
 
-      <img src="Cage and Aviary Bird Products.png" alt="Aviary"/>
+  <img src="website-images/CageandAviaryBirdProducts.png" alt="Aviary"/>
 <br>
 
-      <img src="Pigeon Products.png" alt="Pigeon"/>
+  <img src="website-images/Pigeon Products.png" alt="Pigeon"/>
 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Yellow-crowned_Amazon_%28Amazona_ochrocephala%29_-Well_Place_Zoo-4c.jpg/600px-Yellow-crowned_Amazon_%28Amazona_ochrocephala%29_-Well_Place_Zoo-4c.jpg" alt="Amazon parrot"/>
 
-      <img src="Poultry Products.png" alt="Poultry"/>
+  <img src="website-images/PoultryProducts.png" alt="Poultry"/>
 
     </section>
 
