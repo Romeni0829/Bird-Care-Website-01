@@ -279,17 +279,17 @@
 
   <div class="product-grid">
     <div>
-      <img src="cage.jpg" alt="Cage Product">
+      <img src="website-images/cage.jpg" alt="Cage Product">
       <p>Cage & Aviary Mix</p>
     </div>
     
     <div>
-      <img src="rrrr.jpg" alt="Poultry Product">
+  <img src="website-images/rrrr.jpg" alt="Poultry Product">
       <p>Poultry Health Formula</p>
     </div>
 
-    <div>
-      <img src="Pigeon Booster.png" alt="Pigeon Product">
+  <div>
+  <img src="website-images/PigeonBooster.png" alt="Pigeon Product">
       <p>Pigeon Booster</p>
     </div>
   </div>
