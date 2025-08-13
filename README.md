@@ -185,7 +185,7 @@
 <body>
    <header>
    <nav>
-  <a href="Christal.html">Home</a>
+  <a href="website-pages/Christal.html">Home</a>
   
   <div class="dropdown">
     <a href="#">Small Animal Supplements & Hygiene</a>
@@ -196,9 +196,9 @@
     </div>
   </div>
 
-  <a href="about.html">About Us</a>
-  <a href="terms-and-conditions.html">Terms & Conditions</a>
-  <a href="contact.html">Contact Us</a>
+  <a href="website-pages/about.html">About Us</a>
+<a href="website-pages/terms-and-conditions.html">Terms & Conditions</a>
+<a href="website-pages/contact.html">Contact Us</a>
 </nav>
 
       </header>
